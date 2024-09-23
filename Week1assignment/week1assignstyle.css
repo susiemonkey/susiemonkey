@@ -44,3 +44,12 @@ header {
 button {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+section{
+    font-style: oblique;
+    font-weight: 400;
+    color: blue;
+}
+article {
+    font-style: oblique;
+    background-color: rgb(242, 240, 237);
+}
