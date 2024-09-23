@@ -1,6 +1,46 @@
-ul{
-list-style-type: none;
-margin :0;
-padding:0;
+ul {
+    list-style-type: none;
+    margin: 20;
+    padding: 20;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-self: center;
+    background-color: rgb(238, 232, 232);
+}
 
+li {
+    display: inline;
+    background-color: aqua;
+    color: aliceblue;
+}
+
+.active {
+    background-color: blueviolet;
+}
+
+p {
+    font-size: large;
+    color: coral;
+    text-align: center;
+}
+
+footer {
+    font-size: smaller;
+    color: darkgray;
+    text-align: right;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+    text-align: center;
+}
+
+header {
+    font-size: large;
+    text-align: left;
+}
+
+button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
