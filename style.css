@@ -1,17 +1,23 @@
+@font-face {
+  font-family: coolvetics;
+
+
+}
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333333;
+    background-color: #f6ddf4;
+    color: #d4c4c4;
   }
 
   /* Set a different font for headings */
   h1 {
     font-family: Georgia, serif;
-    color: #2c3e50;
+    color: #66111f;
   }
 
   /* Style paragraphs with a web-safe font */
   p {
     font-family: "Verdana", sans-serif;
-    color: #555555;
+    color: #5e0b9f;
   }
+  
